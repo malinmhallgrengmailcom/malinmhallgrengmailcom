@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malin Hallgren</h1>
 <h3 align="center">Game dev gone fullstack developer student</h3>
 
-- 🔭 I’m currently working as **a Content designer for games, but I'm study leave**
+- 🔭 I’m currently working as **a Content designer for games, but I'm on study leave**
 
 - 🌱 I’m currently learning **.NET, Python, JS, HTML, CSS**
 
